@@ -6,7 +6,7 @@ The HOA Common area is divided into two categories for landscaping purposes:
 - **Irrigated Areas**: Shown on the map in Blue.
 - **Non-Irrigated Areas**: Shown on the map in Yellow.
 
-<img src="mow-map.png" width="750" style="border: 2px solid black">
+<img src="mow-map.jpg" width="750" style="border: 2px solid black">
 
 
 ### Mowing, Edging, and Blowing
