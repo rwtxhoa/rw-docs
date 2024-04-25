@@ -17,6 +17,7 @@ The HOA Common area is divided into two categories for landscaping purposes:
 - **Non-Irrigated Areas**
   - Mowed at least **6 times per year**.
   - A quoted price for each additional mow, in excess of the included 6 mows, shall be provided.
+  - Grass shall be kept less than 10" at all times per city ordinance.
 
 ### Removal of Organic Debris (leaves, small downed branches, dead plants)
 - **Irrigated Areas**
