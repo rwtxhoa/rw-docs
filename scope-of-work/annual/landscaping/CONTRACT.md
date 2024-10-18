@@ -43,7 +43,7 @@ The HOA Common area is divided into two categories for landscaping purposes:
     - Replace pet waste bags as needed
     - Replace liners as needed
   - **Frequency**:
-    - Every mowing session ** **AND** at least **once every other week**.
+    - Every mowing session **AND** at least **once every other week**.
 ### Pruning/Shearing of Shrubs and Ground Cover
 - **Irrigated Areas**
   - As needed.
