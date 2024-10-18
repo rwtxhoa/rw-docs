@@ -67,3 +67,12 @@ The HOA Common area is divided into two categories for landscaping purposes:
 ### Periodic Irrigation Checks 
 - **Frequency**
   - Performed on a **monthly basis**.
+- **Requirements**
+  - Inspect all irrigation zones to ensure proper functioning of sprinkler heads, valves, and controllers.
+  - Adjust sprinkler heads for proper coverage and alignment to prevent over-spraying onto sidewalks, streets, or non-landscaped areas.
+  - Test all valves and controllers to ensure proper timing and functionality.
+  - Check for any leaks or damage in the irrigation lines and report issues immediately.
+  - Ensure all irrigation schedules comply with current watering restrictions or board directives.
+- **Deliverable**
+  - Provide a written report after each inspection detailing the condition of the system, any repairs or adjustments made, and any recommendations for future maintenance or repairs. 
+  - Reports should be submitted to the board within 3 days of the inspection.
