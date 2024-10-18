@@ -26,9 +26,24 @@ The HOA Common area is divided into two categories for landscaping purposes:
   - As needed to prevent damage to mowers.
 
 ### Prompt Removal of All Litter, Trash, Refuse, and Wastes
-- **Trash Bins**: 4 bins (3 at the park, 1 at the pond)
-  - Cleared **every mowing session** **AND** at least **once every other week**.
-
+- **Trash Bins**: 4 bins
+  - Quantity: 4
+    - 3 at the park
+    - 1 at the pond
+  - Scope:
+    - Empty bin
+    - Replace Liner
+- **Pet Waste Stations**:
+  - Quantity: 4
+    - 2 at the dog park
+    - 1 at the park
+    - 1 at the pond
+  - Scope:
+    - Empty trash bin
+    - Replace pet waste bags as needed
+    - Replace liners as needed
+  - **Frequency**:
+    - Every mowing session ** **AND** at least **once every other week**.
 ### Pruning/Shearing of Shrubs and Ground Cover
 - **Irrigated Areas**
   - As needed.
