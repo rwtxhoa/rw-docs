@@ -34,7 +34,7 @@ The HOA Common area is divided into two categories for landscaping purposes:
     - Empty bin
     - Replace Liner
 - **Pet Waste Stations**:
-  - Quantity: 4
+  - Quantity: 3
     - 2 at the dog park
     - 1 at the park
   - Scope:
