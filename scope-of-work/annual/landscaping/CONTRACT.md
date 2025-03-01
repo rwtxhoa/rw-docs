@@ -11,9 +11,9 @@ The HOA Common area is divided into two categories for landscaping purposes:
 
 ### Mowing, Edging, and Blowing
 - **Irrigated Areas**
-  - Mowed at least **42 times per year**.
-    - 32 times during the peak growing season (March - September)
-    - 10 times during the off season (October - February)
+  - Mowed at least **32 times per year**.
+    - Weekly during peak growing season
+    - As needed during non peak season
 - **Non-Irrigated Areas**
   - Mowed at least **6 times per year**.
   - A quoted price for each additional mow, in excess of the included 6 mows, shall be provided.
