@@ -37,11 +37,9 @@ The HOA Common area is divided into two categories for landscaping purposes:
   - Quantity: 4
     - 2 at the dog park
     - 1 at the park
-    - 1 at the pond
   - Scope:
     - Empty trash bin
-    - Replace pet waste bags as needed
-    - Replace liners as needed
+    - Replace liner
   - **Frequency**:
     - Every mowing session **AND** at least **once every other week**.
 ### Pruning/Shearing of Shrubs and Ground Cover
