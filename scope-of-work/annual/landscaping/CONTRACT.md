@@ -94,4 +94,5 @@ The HOA Common area is divided into two categories for landscaping purposes:
 All Vendors Must include the following documentation with their quote:
   - A completed aned signed **W-9 Form**
   - A valid **Certificate of Insurance (COI) with a minimum coverage of **$1,000,000**
+
 Failure to include these documents may result in disqualification from the RFQ process.
